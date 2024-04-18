@@ -267,7 +267,7 @@ header {
 }
 
 .sobre .row .content h3{
-    font-size: 1.6rem;
+    font-size: 2.5rem;
     color: white;
 }
 
@@ -304,22 +304,22 @@ header {
 }
 
 .sobre .row-1.content h3{
-    font-size: 1.6rem;
+    font-size: 2.5rem;
     color: white;
 }
 
 .sobre .row-1 .content p{
-    font-size: 1.8rem;
+    font-size: 2.3rem;
     color: gray;
     padding: 1rem 0;
-    line-height: 1.8;
+    line-height: 2.3;
 }
 
 .sobre .row-1 .content p{
-    font-size: 1.8rem;
+    font-size: 2.3rem;
     color: gray;
-    padding: 1rem 0;
-    line-height: 1.8;
+    padding: 2rem 0;
+    line-height: 2.3;
 }
 
 .sobre .row-2{
